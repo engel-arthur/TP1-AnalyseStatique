@@ -1,0 +1,14 @@
+astvisitors\MethodDeclarationVisitor.class
+values\MainFXConfig.class
+astvisitors\TypeDeclarationVisitor.class
+values\MainFXTextConstants.class
+values\Paths.class
+MainFX.class
+astvisitors\PackageDeclarationVisitor.class
+astvisitors\MethodInvocationVisitor.class
+utils\GraphUtils.class
+utils\Pair.class
+Parser.class
+MainNoInterface.class
+astvisitors\FieldAccessVisitor.class
+astvisitors\VariableDeclarationFragmentVisitor.class
